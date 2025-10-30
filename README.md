@@ -20,7 +20,7 @@ I’ve decided to start a long-term learning & sharing journey — **“100 Days
 
 | Day | Topic | Description | Link |
 |-----|--------|--------------|------|
-| 1 | Python Basics: `print()`, `input()` | Printing text, taking input, simple exercises, and a mini name generator project | [Day 1 Notebook](link-to-your-notebook) |
+| 1 | Python Basics: `print()`, `input()` | Printing text, taking input, simple exercises, and a mini name generator project | [Day 1 Notebook](https://github.com/NimraAslamkhan/100-Day-of-Python-Learning/blob/main/DAY_1_of_python_Learning.ipynb) |
 | 2 | Coming Soon... |  |  |
 
 *(The table will keep updating as I post new notebooks.)*
